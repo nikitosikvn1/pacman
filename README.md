@@ -27,14 +27,14 @@ Welcome to the **Pacman Clone**! This is a Python-based recreation of the classi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/placeholder.git
+   git clone https://github.com/nikitosikvn1/pacman.git
    cd pacman/
    ```
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**
 
    ```bash
-   python3 -m venv .venv
+   python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
