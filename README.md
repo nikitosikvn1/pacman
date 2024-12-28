@@ -1,7 +1,8 @@
-# Pacman Clone
-
-![Game gif](assets/demo/demo.gif)
-*Example of the game in action.*
+<div align="center" width="100%">
+    <img width="64" height="64" src="https://img.icons8.com/cotton/64/pacman.png" alt="pacman logo"/>
+    <h1>Pacman clone in Python!</h1>
+    <img src="assets/demo/demo.gif" width="512" height="512"/>
+</div>
 
 ## Overview
 
